@@ -1,0 +1,62 @@
+{
+    "mimica": [
+        {
+            "pregunta": "Película: ¿De qué película se trata si haces gestos de abrir y cerrar un paraguas?",
+            "respuesta": "Cantando bajo la lluvia"
+        },
+        {
+            "pregunta": "Serie: ¿Qué serie representa si haces gestos de caminar como un zombie?",
+            "respuesta": "The Walking Dead"
+        }
+    ],
+    "trivial": [
+        {
+            "pregunta": "Película: ¿Cuál es la película con la taquilla más alta de la historia?",
+            "respuesta": "Avatar"
+        },
+        {
+            "pregunta": "Serie: ¿Cuál es el nombre del actor que interpreta a Tony Stark en la serie Iron Man?",
+            "respuesta": "Robert Downey Jr."
+        }
+    ],
+    "intros": [
+        {
+            "pregunta": "Película: ¿Qué película comienza con la frase 'Hace mucho tiempo, en una galaxia muy, muy lejana...'?",
+            "respuesta": "Star Wars"
+        },
+        {
+            "pregunta": "Serie: ¿Cuál es la serie que comienza con una secuencia de títulos donde un cuervo se posa en un trono?",
+            "respuesta": "Juego de Tronos"
+        }
+    ],
+    "spoiler": [
+        {
+            "pregunta": "Película: ¿Quién es el padre de Luke Skywalker en Star Wars?",
+            "respuesta": "Darth Vader"
+        },
+        {
+            "pregunta": "Serie: ¿Quién muere al final de la quinta temporada de Breaking Bad?",
+            "respuesta": "Gus Fring"
+        }
+    ],
+    "batalla": [
+        {
+            "pregunta": "Película: ¿Cuál es la película con la escena de batalla final en la que Frodo destruye el Anillo Único?",
+            "respuesta": "El Señor de los Anillos: El retorno del Rey"
+        },
+        {
+            "pregunta": "Serie: ¿Cuál es la serie que muestra la batalla de los bastardos en su sexta temporada?",
+            "respuesta": "Juego de Tronos"
+        }
+    ],
+    "guion": [
+        {
+            "pregunta": "Película: ¿Quién escribió el guion de la película 'Pulp Fiction'?",
+            "respuesta": "Quentin Tarantino"
+        },
+        {
+            "pregunta": "Serie: ¿Quién es el creador de la serie 'Friends'?",
+            "respuesta": "David Crane y Marta Kauffman"
+        }
+    ]
+}
