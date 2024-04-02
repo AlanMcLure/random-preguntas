@@ -58,5 +58,125 @@
             "pregunta": "Serie: ¿Quién es el creador de la serie 'Friends'?",
             "respuesta": "David Crane y Marta Kauffman"
         }
+    ],
+    "mimica": [
+        {
+            "pregunta": "Película: ¿Qué película representa si haces gestos de volar con un paraguas?",
+            "respuesta": "Mary Poppins"
+        },
+        {
+            "pregunta": "Serie: ¿Qué serie representa si haces gestos de lanzar una bola de fuego?",
+            "respuesta": "Stranger Things"
+        }
+    ],
+    "trivial": [
+        {
+            "pregunta": "Película: ¿Cuál es la película dirigida por Steven Spielberg en la que un tiburón ataca a personas en una playa?",
+            "respuesta": "Tiburón (Jaws)"
+        },
+        {
+            "pregunta": "Serie: ¿Cuál es la serie de Netflix sobre un grupo de niños que descubre un experimento secreto del gobierno?",
+            "respuesta": "Stranger Things"
+        }
+    ],
+    "intros": [
+        {
+            "pregunta": "Película: ¿Qué película comienza con la frase 'A long time ago in a galaxy far, far away...'?",
+            "respuesta": "Star Wars"
+        },
+        {
+            "pregunta": "Serie: ¿Cuál es la serie que comienza con la secuencia de títulos en la que un cuervo se posa en un trono de hierro?",
+            "respuesta": "Juego de Tronos"
+        }
+    ],
+    "spoiler": [
+        {
+            "pregunta": "Película: ¿Quién muere al final de la película 'El Sexto Sentido'?",
+            "respuesta": "Malcolm Crowe (Bruce Willis)"
+        },
+        {
+            "pregunta": "Serie: ¿Quién muere al final de la primera temporada de 'Juego de Tronos'?",
+            "respuesta": "Ned Stark"
+        }
+    ],
+    "batalla": [
+        {
+            "pregunta": "Película: ¿Cuál es la película en la que una batalla final se desarrolla en una ciudad destruida entre Transformers y Decepticons?",
+            "respuesta": "Transformers: El lado oscuro de la luna"
+        },
+        {
+            "pregunta": "Serie: ¿En qué serie hay una batalla épica conocida como 'La batalla de los bastardos'?",
+            "respuesta": "Juego de Tronos"
+        }
+    ],
+    "guion": [
+        {
+            "pregunta": "Película: ¿Quién escribió el guion de la película 'El Padrino'?",
+            "respuesta": "Mario Puzo y Francis Ford Coppola"
+        },
+        {
+            "pregunta": "Serie: ¿Quién es el creador de la serie 'Breaking Bad'?",
+            "respuesta": "Vince Gilligan"
+        }
+    ],
+    "mimica": [
+        {
+            "pregunta": "Película: ¿Qué película representa si haces gestos de bailar con un vestido amarillo?",
+            "respuesta": "La La Land"
+        },
+        {
+            "pregunta": "Serie: ¿Qué serie representa si haces gestos de volar con un dragón?",
+            "respuesta": "Game of Thrones"
+        }
+    ],
+    "trivial": [
+        {
+            "pregunta": "Película: ¿Cuál es la película que ganó el Oscar a la mejor película en 2020?",
+            "respuesta": "Parasite"
+        },
+        {
+            "pregunta": "Serie: ¿Cuál es la serie de televisión de comedia sobre un grupo de amigos en Nueva York?",
+            "respuesta": "Friends"
+        }
+    ],
+    "intros": [
+        {
+            "pregunta": "Película: ¿Qué película comienza con la frase 'En una galaxia muy, muy lejana...'?",
+            "respuesta": "Star Wars"
+        },
+        {
+            "pregunta": "Serie: ¿Cuál es la serie que comienza con la secuencia de títulos en la que un cuervo se posa sobre un trono?",
+            "respuesta": "Game of Thrones"
+        }
+    ],
+    "spoiler": [
+        {
+            "pregunta": "Película: ¿Quién es el villano principal en la película 'El Señor de los Anillos: La Comunidad del Anillo'?",
+            "respuesta": "Sauron"
+        },
+        {
+            "pregunta": "Serie: ¿Quién muere al final de la serie 'Breaking Bad'?",
+            "respuesta": "Walter White"
+        }
+    ],
+    "batalla": [
+        {
+            "pregunta": "Película: ¿Cuál es la película en la que una batalla épica se desarrolla en la Tierra Media contra el ejército de Sauron?",
+            "respuesta": "El Señor de los Anillos: El retorno del Rey"
+        },
+        {
+            "pregunta": "Serie: ¿En qué serie hay una batalla conocida como 'La Batalla de los Bastardos'?",
+            "respuesta": "Game of Thrones"
+        }
+    ],
+    "guion": [
+        {
+            "pregunta": "Película: ¿Quién escribió el guion de la película 'Forrest Gump'?",
+            "respuesta": "Eric Roth"
+        },
+        {
+            "pregunta": "Serie: ¿Quién es el creador de la serie 'Los Simpson'?",
+            "respuesta": "Matt Groening"
+        }
     ]
 }
