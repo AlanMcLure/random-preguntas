@@ -1,12 +1,40 @@
 {
     "mimica": [
         {
-            "pregunta": "Película: ¿De qué película se trata si haces gestos de abrir y cerrar un paraguas?",
-            "respuesta": "Cantando bajo la lluvia"
+            "pregunta": "Película: Cars"
         },
         {
-            "pregunta": "Serie: ¿Qué serie representa si haces gestos de caminar como un zombie?",
-            "respuesta": "The Walking Dead"
+            "pregunta": "Serie: The Walking Dead"
+        },
+        {
+            "pregunta": "Película: Piratas del Caribe"
+        },
+        {
+            "pregunta": "Serie: Stranger Things"
+        },
+        {
+            "pregunta": "Película: El señor de los Anillos"
+        },
+        {
+            "pregunta": "Serie: Friends"
+        },
+        {
+            "pregunta": "Película: Harry Potter"
+        },
+        {
+            "pregunta": "Serie: Game of Thrones"
+        },
+        {
+            "pregunta": "Película: Toy Story"
+        },
+        {
+            "pregunta": "Serie: The Office"
+        },
+        {
+            "pregunta": "Película: Jurassic Park"
+        },
+        {
+            "pregunta": "Serie: Breaking Bad"
         }
     ],
     "trivial": [
