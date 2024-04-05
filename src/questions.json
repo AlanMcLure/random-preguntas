@@ -76,35 +76,5 @@
         {
             "pregunta": "Nombrar películas dirigidas por Quentin Tarantino."
         }
-    ],
-    "trivial": [
-        {
-            "pregunta": "Película: ¿Cuál es la película con la taquilla más alta de la historia?",
-            "respuesta": "Avatar"
-        },
-        {
-            "pregunta": "Serie: ¿Cuál es el nombre del actor que interpreta a Tony Stark en la serie Iron Man?",
-            "respuesta": "Robert Downey Jr."
-        }
-    ],
-    "guion": [
-        {
-            "pregunta": "Película: ¿Quién escribió el guion de la película 'Pulp Fiction'?",
-            "respuesta": "Quentin Tarantino"
-        },
-        {
-            "pregunta": "Serie: ¿Quién es el creador de la serie 'Friends'?",
-            "respuesta": "David Crane y Marta Kauffman"
-        }
-    ],
-    "spoiler": [
-        {
-            "pregunta": "Película: ¿Quién muere al final de la película 'El Sexto Sentido'?",
-            "respuesta": "Malcolm Crowe (Bruce Willis)"
-        },
-        {
-            "pregunta": "Serie: ¿Quién muere al final de la primera temporada de 'Juego de Tronos'?",
-            "respuesta": "Ned Stark"
-        }
     ]
 }
