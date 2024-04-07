@@ -40,27 +40,27 @@
     "intros": [
         {
             "pregunta": "Película: Intro de 'Jurassic Park'",
-            "videoURL": "url_del_video_de_la_intro_de_Jurassic_Park"
+            "introURL": "https://youtu.be/D8zlUUrFK-M?si=uMq_kHNxD_JzsuBN"
         },
         {
             "pregunta": "Serie: Banda sonora de 'Stranger Things'",
-            "videoURL": "url_del_video_de_la_banda_sonora_de_Stranger_Things"
+            "introURL": "url_del_intro_de_la_banda_sonora_de_Stranger_Things"
         },
         {
             "pregunta": "Película: Intro de 'Star Wars'",
-            "videoURL": "url_del_video_de_la_intro_de_Star_Wars"
+            "introURL": "url_del_intro_de_la_intro_de_Star_Wars"
         },
         {
             "pregunta": "Serie: Banda sonora de 'Juego de Tronos'",
-            "videoURL": "url_del_video_de_la_banda_sonora_de_Juego_de_Tronos"
+            "introURL": "url_del_intro_de_la_banda_sonora_de_Juego_de_Tronos"
         },
         {
             "pregunta": "Película: Intro de 'El Padrino'",
-            "videoURL": "url_del_video_de_la_intro_de_El_Padrino"
+            "introURL": "url_del_intro_de_la_intro_de_El_Padrino"
         },
         {
             "pregunta": "Serie: Banda sonora de 'Breaking Bad'",
-            "videoURL": "url_del_video_de_la_banda_sonora_de_Breaking_Bad"
+            "introURL": "url_del_intro_de_la_banda_sonora_de_Breaking_Bad"
         }
     ],
     "batalla": [
