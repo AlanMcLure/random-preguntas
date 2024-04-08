@@ -40,27 +40,27 @@
     "intros": [
         {
             "pregunta": "Película: Intro de 'Jurassic Park'",
-            "introURL": "https://youtu.be/D8zlUUrFK-M?si=uMq_kHNxD_JzsuBN"
+            "introUrl": "https://youtu.be/D8zlUUrFK-M?si=uMq_kHNxD_JzsuBN"
         },
         {
             "pregunta": "Serie: Banda sonora de 'Stranger Things'",
-            "introURL": "url_del_intro_de_la_banda_sonora_de_Stranger_Things"
+            "introUrl": "https://youtu.be/-RcPZdihrp4?si=gKR_f6xDcBzbM22I"
         },
         {
             "pregunta": "Película: Intro de 'Star Wars'",
-            "introURL": "url_del_intro_de_la_intro_de_Star_Wars"
+            "introUrl": "https://youtu.be/_D0ZQPqeJkk?si=Bejp9ZgbJiiJCefC"
         },
         {
             "pregunta": "Serie: Banda sonora de 'Juego de Tronos'",
-            "introURL": "url_del_intro_de_la_banda_sonora_de_Juego_de_Tronos"
+            "introUrl": "https://youtu.be/s7L2PVdrb_8?si=LL4nEsiuoEJYdr1c"
         },
         {
             "pregunta": "Película: Intro de 'El Padrino'",
-            "introURL": "url_del_intro_de_la_intro_de_El_Padrino"
+            "introUrl": "https://youtu.be/HWqKPWO5T4o?si=99mfdE487KHcQ4SF"
         },
         {
             "pregunta": "Serie: Banda sonora de 'Breaking Bad'",
-            "introURL": "url_del_intro_de_la_banda_sonora_de_Breaking_Bad"
+            "introUrl": "https://youtu.be/ilfYnhXD-bE?si=IWzY6IJyW7ovGmdo"
         }
     ],
     "batalla": [
