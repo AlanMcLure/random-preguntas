@@ -10,6 +10,11 @@ function App() {
   const [introsQuestions, setIntrosQuestions] = useState(questionsData.intros);
   const [batallaQuestions, setBatallaQuestions] = useState(questionsData.batalla);
   const [currentQuestion, setCurrentQuestion] = useState({ question: "", category: "", introUrl: "" });
+  const [resetFlag, setResetFlag] = useState(false);
+
+  const resetTimer = () => {
+    setResetFlag(!resetFlag);
+  };
 
   const nuevaPregunta = () => {
     const categories = [
@@ -42,7 +47,7 @@ function App() {
       questionComponent = <IntrosQuestion question={currentQuestion.question} introUrl={currentQuestion.introUrl} />;
       break;
     case "batalla":
-      questionComponent = <BatallaQuestion question={currentQuestion.question} />;
+      questionComponent = <BatallaQuestion question={currentQuestion.question} resetTimer={resetTimer} />;
       break;
     default:
       questionComponent = null;

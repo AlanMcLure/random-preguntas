@@ -44,6 +44,21 @@
         },
         {
             "pregunta": "Película: It"
+        },
+        {
+            "pregunta": "Serie: The Big Bang Theory"
+        },
+        {
+            "pregunta": "Película: La La Land"
+        },
+        {
+            "pregunta": "Serie: The Crown"
+        },
+        {
+            "pregunta": "Película: El Rey León"
+        },
+        {
+            "pregunta": "Serie: Black Mirror"
         }
     ],
     "intros": [
