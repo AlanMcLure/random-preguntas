@@ -59,6 +59,27 @@
         },
         {
             "pregunta": "Serie: Black Mirror"
+        },
+        {
+            "pregunta": "Película: Titanic"
+        },
+        {
+            "pregunta": "Serie: The Simpsons"
+        },
+        {
+            "pregunta": "Película: El Padrino"
+        },
+        {
+            "pregunta": "Película: Star Wars"
+        },
+        {
+            "pregunta": "Película: Forrest Gump"
+        },
+        {
+            "pregunta": "Película: Volver al Futuro"
+        },
+        {
+            "pregunta": "Serie: The Good Place"
         }
     ],
     "intros": [
